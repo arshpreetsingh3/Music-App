@@ -1,0 +1,11 @@
+body{
+    background: white url("images/nature-old-paper-texture-or-background-video-animation_sacheeom__F0000.png") ;
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family:'Satisfy',cursive;
+}
